@@ -1,0 +1,1 @@
+# Write-a-JavaScript-program-to-count-the-occurrences-of-a-value-in-an-array
