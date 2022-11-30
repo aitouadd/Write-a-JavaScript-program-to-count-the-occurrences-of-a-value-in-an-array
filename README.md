@@ -92,7 +92,7 @@ initial value of one into array B. 5.2 Else 5.2.1 Increment the value in array B
 
      
      
-     Array = [2,3,4,1,2,2,5,3,7,8,1,1,6];
+     let mArray = [2,3,4,1,2,2,5,3,7,8,1,1,6];
 
         function countOccurrences(array) {
                let arrayElements 			= [],
